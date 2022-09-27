@@ -1,0 +1,30 @@
+{
+  "name": "api-back",
+  "author": "Luis Angel Vanegas Martinez",
+  "license": "ISC",
+  "version": "1.0.0",
+  "description": "this is the api-back",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "jest --forceExit"
+  },
+  "keywords": [
+    "nodejs",
+    "express",
+    "mongodb",
+    "mongoose",
+    "api"
+  ],
+  "dependencies": {
+    "cors": "^2.8.4",
+    "express": "^4.17.1",
+    "mongodb": "^3.1.6",
+    "mongoose": "^5.2.15",
+    "dotenv": "^8.2.0"
+  },
+  "devDependencies": {
+    "jest": "^27.0.6",
+    "supertest": "^6.1.6"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "name": "new-project",
+  "version": "1.0.0",
+  "description": "proyecto basico en Node js",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "author": "Luis Vanegas",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  }
+}

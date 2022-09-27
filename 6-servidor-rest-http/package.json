@@ -1,0 +1,16 @@
+{
+  "name": "6-rest-server",
+  "version": "1.0.0",
+  "description": "Es un servidor que te va a dar respuestas por medio de JSON u otro tipo de formato",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.2",
+    "express": "^4.18.1"
+  }
+}

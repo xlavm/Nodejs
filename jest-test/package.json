@@ -1,0 +1,15 @@
+{
+  "name": "jest-test",
+  "version": "1.0.0",
+  "description": "unit test with jest",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "jest"
+  },
+  "author": "Luis Angel Vanegas Martinez",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^27.0.6"
+  }
+}
